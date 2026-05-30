@@ -1,4 +1,4 @@
-<img width="2720" height="1760" alt="10_er_diagram" src="https://github.com/user-attachments/assets/4431bb39-e87d-4de1-8e60-02c699a35187" />
+
 # Курсовая_работа_ИС_типография
 
 
