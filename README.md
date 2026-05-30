@@ -105,11 +105,13 @@
 
 🔄 Бизнес-процессы (IDEF0)
 Контекстная диаграмма
-![Uploading 02_idef0_context.png…]()
+<img width="2200" height="1240" alt="02_idef0_context" src="https://github.com/user-attachments/assets/e397d221-5925-4c2f-bee7-a0eb6e9b75a6" />
+
 
 
 Декомпозиция (A0)
-![Uploading 03_idef0_decomp.png…]()
+<img width="2360" height="1520" alt="03_idef0_decomp" src="https://github.com/user-attachments/assets/7750a7e5-0f71-46f1-ba0a-72f3b24af1f6" />
+
 
 
 🗄️ Структура базы данных (ER-диаграмма)
