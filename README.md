@@ -1,4 +1,4 @@
-
+<img width="2720" height="1760" alt="10_er_diagram" src="https://github.com/user-attachments/assets/4431bb39-e87d-4de1-8e60-02c699a35187" />
 # Курсовая_работа_ИС_типография
 
 
@@ -111,7 +111,8 @@
 [Вставьте диаграмму IDEF0 уровня A0]
 
 🗄️ Структура базы данных (ER-диаграмма)
-[Вставьте ER-диаграмму]
+<img width="2720" height="1760" alt="10_er_diagram" src="https://github.com/user-attachments/assets/8c27c087-3553-4c9f-8503-e76f6eb99d56" />
+
 
 Основные сущности:
 
